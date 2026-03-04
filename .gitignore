@@ -1,0 +1,16 @@
+# Local editor/cache
+.cache/
+
+# CMake build output
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# Binary
+plato
+*.o
+*.a
+*.so
+
+# Optional: ignore root compile database if you don't want it in git
+ compile_commands.json
