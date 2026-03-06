@@ -12,5 +12,8 @@ plato
 *.a
 *.so
 
+#release files
+release/
+
 # Optional: ignore root compile database if you don't want it in git
- compile_commands.json
+compile_commands.json
