@@ -46,7 +46,7 @@ void ProjectGenerator::generate_src_file(const std::filesystem::path& path)
 {
     std::ofstream src_file(path);
     src_file << "#include <iostream>" << std::endl;
-    src_file << "int main(int argc, char* argv[])" << std::endl;
+    src_file << "int main()" << std::endl;
     src_file << "{" << std::endl;
     src_file << "    std::cout << \"Hello, World!\" << std::endl;" << std::endl;
     src_file << "    return 0;" << std::endl;
