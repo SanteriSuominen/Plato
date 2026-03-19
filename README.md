@@ -75,3 +75,5 @@ Depending on selected options, Plato creates files like:
 ## Notes
 
 - `Setup Git` and `Setup .gitignore` UI options are present in the code but currently disabled in the window logic.
+
+![]()
