@@ -76,4 +76,4 @@ Depending on selected options, Plato creates files like:
 
 - `Setup Git` and `Setup .gitignore` UI options are present in the code but currently disabled in the window logic.
 
-![](Screenshot From 2026-03-06 13-25-19.png)
+![](Plato_in_action.png)
